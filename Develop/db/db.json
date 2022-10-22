@@ -1,7 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-        
-    }
-]
+[{"title":"Welcome to note taker","text":"In here, you can write notes, edit and delete.","id":""},{"title":"Hello there!","text":"Express js allows to create this note taker.","id":""},{"title":"Nver","text":"okay"}]
