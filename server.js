@@ -27,8 +27,11 @@ fs.writeFile("./db/db.json", JSON.stringify(db), () => {
 })
     
 })
+
+//local host
 const PORT = process.env.PORT || 3001
 
+//after node server.js commands
 app.listen(PORT, () => {
     console.log("server is running")
 })
