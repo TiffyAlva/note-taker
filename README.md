@@ -7,39 +7,32 @@
 ## Description:
 - This application can be used to write and save notes.
 
+## Summary:
+- It's a note taker generator using by Node.js, JavaScript, and Express.
+
 
 
 
 ## Table of Content:
 
-
-
-
-
-
-
-## User Story:
-<pre>AS A small business owner
-I WANT to be able to write and save notes
-SO THAT I can organize my thoughts and keep track of tasks I need to complete</pre>
-
-## Acceptance Criteria:
-<pre><b>GIVEN</b> a note-taking application
-<b>WHEN</b> I open the Note Taker
-<b>THEN</b> I am presented with a landing page with a link to a notes page
-<b>WHEN</b> I click on the link to the notes page
-<b>THEN</b> I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-<b>WHEN</b> I enter a new note title and the note’s text
-<b>THEN</b> a Save icon appears in the navigation at the top of the page
-<b>WHEN</b> I click on the Save icon
-<b>THEN</b> the new note I have entered is saved and appears in the left-hand column with the other existing notes
-<b>WHEN</b> I click on an existing note in the list in the left-hand column
-<b>THEN</b> that note appears in the right-hand column
-<b>WHEN</b> I click on the Write icon in the navigation at the top of the page
-<b>THEN</b> I am presented with empty fields to enter a new note title and the note’s text in the right-hand column</pre>
+* [Description](#description)
+* [Summary](#summary)
+* [Visuals](#visuals)
+* [Tools](#tools)
+* [Deployed Link on Heroku](#deployed-link-on-heroku)
+* [Usage](#usage)
+* [Installation](#installation)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Contact Information](#contact-informations)
+* [Demostration Video](#demo)
 
 
 ## Visuals:
+![](./public/assets/images/note-taker-mock-up.jpg)
+
+![](./public/assets/images/note-taker-mock-up-2.jpg)
 
 ## Tools:
 - CSS 
@@ -50,7 +43,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete</p
 - <a href="https://dashboard.heroku.com/apps">Heroku</a> 
 
 ## Deployed Link on Heroku: 
--
+- https://tiffyalva-note-taker.herokuapp.com/notes
 
 ## Usage:
 - Create a note taker generator by using Node.js, JavaScript, and Express.js
@@ -60,16 +53,21 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete</p
 ## Installation:
 - npm
 - Express
-- fs
+
 
 ## License:
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Contributing:
 - N/A
 
 ## Tests:
+N/A
 
 ## Contact Informations:
+* GitHub Username: <a href="https://github.com/TiffyAlva">TiffyAlva</a>
+* Email: <a href="malito:TiffanyAlvarez54@gmail.com">TiffanyAlvarez54@gmail.com
 
 
 ## Demo:
